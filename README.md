@@ -60,7 +60,7 @@ pip install mysql-connector-python
 
 ---
 
-##Python Code
+## Python Code
 
 ```python
 import mysql.connector
